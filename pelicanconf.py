@@ -42,9 +42,11 @@ M_FAVICON = ('favicon.ico', 'image/x-ico')
 M_SITE_LOGO = 'images/header.png'
 
 M_LINKS_NAVBAR1 = [('Welcome', 'index.html', 'welcome', []),
-                   ('Papers', 'pages/papers.html', 'papers', []),
-                   ('Resume', 'pages/resume.html', 'resume', [])]
+                   ('Blog',    'author/nat.html', '[blog]', []),
+                   ('Papers',  'pages/papers.html', 'papers', []),
+                   ('Resume',  'pages/resume.html', 'resume', [])]
 
+M_NEWS_ON_INDEX = ("Latest entries", 3)
 
 PLUGIN_PATHS = ['m.css/plugins/m', 'm.css/plugins', 'm.css/pelican-plugins']
 PLUGINS = ['htmlsanity']
@@ -55,9 +57,11 @@ PLUGINS = ['htmlsanity']
 #         ('Jinja2', 'http://jinja.pocoo.org/'),
 #         ('You can modify those links in your config file', '#'),)
 
-# Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+# Social widgets
+#SOCIAL = (
+#    ('github', 'https://github.com/natale-p'),
+#    ('linkedin', 'https://www.linkedin.com/in/natalep'),
+#)
 
 DEFAULT_PAGINATION = 3
 
