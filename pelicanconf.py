@@ -111,14 +111,24 @@ R_PROGRAMMING = [
         'black': 0
     },
     {
-        'name': 'Java',
+        'name': 'Protocols',
+        'level': 5,
+        'black': 0
+    },
+    {
+        'name': 'SW Design',
+        'level': 5,
+        'black': 0
+    },
+    {
+        'name': 'AWS Cloud',
         'level': 4,
         'black': 1
     },
     {
-        'name': 'Web',
-        'level': 3,
-        'black': 2
+        'name': 'K8S',
+        'level': 4,
+        'black': 1
     },
 ]
 
@@ -148,19 +158,19 @@ R_JOBS = [
         'job_title': 'Senior Software Engineer',
         'date': '07/2022 - now',
         'company': 'Vonage, Barcelona (Spain)',
-        'details': 'Networking aspects of WebRTC communications. Video Media Routing team lead.'
+        'details': 'Media Routing supervision and guidance for a WebRTC-based backend.<ul><li>Leading a team of five people</li><li>Faciliting cross-functional team communication</li></ul>'
     },
     {
         'job_title': 'Software Media Engineer',
         'date': '12/2020 - 07/2022',
         'company': 'Vonage, Barcelona (Spain)',
-        'details': 'Networking aspects of WebRTC communications'
+        'details': 'Rate control research and implementation for a WebRTC-based backend.<ul><li>On-time feature delivery with proper ticket management</li><li>Identified and resolved critical bugs in the production codebase</li><li>Proactively maintained code quality through active participation in code assessments and reviews.</li></ul>'
     },
     {
         'job_title': 'Researcher',
         'date': '10/2017 - 11/2020',
         'company': 'CTTC, Barcelona (Spain)',
-        'details': '3GPP NR/NR-U analysis and implementation'
+        'details': '5G NR/NR-U design and implementation in mmWave bands.<ul><li>Presented various papers and posters in international conferences</li><li>Offline and online interactions for maintaining an open-source simulator</li></ul>'
     },
     {
         'job_title': 'Scientific Software Developer',
@@ -184,14 +194,14 @@ R_JOBS = [
 
 R_AWARDS = [
     {
+        'award_title': 'Mentor for Google Summer of Code (GSoC)',
+        'date': '2018,2019',
+        'details' : '5G/NR projects integration in ns-3',
+    },
+    {
         'award_title': 'Best paper award at ISNCC 2018',
         'date': '2018',
         'details' : 'Paper title: TCP Wave estimation of the optimal operating point using ACK trains',
-    },
-    {
-        'award_title': 'Mentor for Google Summer of Code (GSoC)',
-        'date': '2018',
-        'details' : '',
     },
     {
 
