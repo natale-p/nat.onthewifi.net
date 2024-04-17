@@ -156,7 +156,7 @@ R_EDUCATION = [
 R_JOBS = [
     {
         'job_title': 'Senior Software Engineer',
-        'date': '07/2022 - now',
+        'date': '07/2022 - until now',
         'company': 'Vonage, Barcelona (Spain)',
         'details': 'Media Routing supervision and guidance for a WebRTC-based backend.<ul><li>Leading a team of five people</li><li>Faciliting cross-functional team communication</li></ul>'
     },
@@ -195,7 +195,7 @@ R_JOBS = [
 R_AWARDS = [
     {
         'award_title': 'Mentor for Google Summer of Code (GSoC)',
-        'date': '2018,2019',
+        'date': '2018 - 2019',
         'details' : '5G/NR projects integration in ns-3',
     },
     {
