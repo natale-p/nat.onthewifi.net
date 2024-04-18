@@ -116,12 +116,12 @@ R_PROGRAMMING = [
         'black': 0
     },
     {
-        'name': 'SW Design',
+        'name': 'Design',
         'level': 5,
         'black': 0
     },
     {
-        'name': 'AWS Cloud',
+        'name': 'AWS',
         'level': 4,
         'black': 1
     },
@@ -156,37 +156,37 @@ R_EDUCATION = [
 R_JOBS = [
     {
         'job_title': 'Senior Software Engineer',
-        'date': '07/2022 - until now',
+        'date': '2022-now',
         'company': 'Vonage, Barcelona (Spain)',
         'details': 'Media Routing supervision and guidance for a WebRTC-based backend.<ul><li>Leading a team of five people</li><li>Faciliting cross-functional team communication</li></ul>'
     },
     {
         'job_title': 'Software Media Engineer',
-        'date': '12/2020 - 07/2022',
+        'date': '2020-2022',
         'company': 'Vonage, Barcelona (Spain)',
         'details': 'Rate control research and implementation for a WebRTC-based backend.<ul><li>On-time feature delivery with proper ticket management</li><li>Identified and resolved critical bugs in the production codebase</li><li>Proactively maintained code quality through active participation in code assessments and reviews.</li></ul>'
     },
     {
         'job_title': 'Researcher',
-        'date': '10/2017 - 11/2020',
+        'date': '2017-2020',
         'company': 'CTTC, Barcelona (Spain)',
         'details': '5G NR/NR-U design and implementation in mmWave bands.<ul><li>Presented various papers and posters in international conferences</li><li>Offline and online interactions for maintaining an open-source simulator</li></ul>'
     },
     {
         'job_title': 'Scientific Software Developer',
-        'date': '03/2017 - 10/2017',
+        'date': '2017',
         'company': 'TSS, Barcelona (Spain)',
         'details': 'V2X Framework development inside Aimsun Simulator'
     },
     {
         'job_title': 'Indepentent Contractor',
-        'date': '02/2017 - 05/2017',
+        'date': '2017',
         'company': 'NITEL, Roma (Italy)',
         'details': 'TCP Wave - TCP congestion control implementation in the Linux kernel'
     },
     {
         'job_title': 'Researcher',
-        'date': '04/2013 - 12/2016',
+        'date': '2013-2016',
         'company': 'University of Modena (Italy)',
         'details': 'European FP7, "PPDR-TC (FP7 313015)" <br> Italian PRIN, "SFINGI: SoFtware-routers to Improve Next Generation Internet"'
     },
