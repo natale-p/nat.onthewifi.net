@@ -155,22 +155,40 @@ R_EDUCATION = [
 
 R_JOBS = [
     {
-        'job_title': 'Senior Software Engineer',
+        'job_title': 'Senior Software Engineer / Tech Lead',
         'date': '2022-now',
         'company': 'Vonage, Barcelona (Spain)',
-        'details': 'Media Routing supervision and guidance for a WebRTC-based backend.<ul><li>Leading a team of five people</li><li>Faciliting cross-functional team communication</li></ul>'
+        'details': ('Media Routing Technical Leadership'
+                    '<ul>'
+                    '<li>Supervised and contributed to backend features, demonstrably enhancing performance and reducing latency.</li>'
+                    '<li>Led the technical design and implementation of core changes to client-server communication protocols, improving scalability and reliability.</li>'
+                    '<li>Strengthened an elastic infrastructure enhancing resilience and scalability.</li>'
+                    '<li>Led incident response efforts, ensuring swift resolution structured follow-ups, reducing future disruptions.</li>'
+                    '<li>Fostered a culture of open collaboration and cross-functional teamwork, eliminating silos.</li>'
+                    '</ul>')
     },
     {
         'job_title': 'Software Media Engineer',
         'date': '2020-2022',
         'company': 'Vonage, Barcelona (Spain)',
-        'details': 'Rate control research and implementation for a WebRTC-based backend.<ul><li>On-time feature delivery with proper ticket management</li><li>Identified and resolved critical bugs in the production codebase</li><li>Proactively maintained code quality through active participation in code assessments and reviews.</li></ul>'
+        'details': ('Media Routing Individual Contributor'
+                    '<ul>'
+                    '<li>Addressed intricate client-server logic inconsistencies and multi-threading challenges.</li>'
+                    '<li>Applied strong abstraction skills and a divide-and-conquer approach to efficiently structure and solve complex problems.</li>'
+                    '<li>Prioritizing tasks effectively to ensure steady progress and timely delivery without getting lost in complexity.</li>'
+                    '<li>Proactively maintained code quality through active participation in code assessments and reviews.</li>'
+                    '</ul>')
     },
     {
-        'job_title': 'Researcher',
+        'job_title': 'Research Scientist (post-doc)',
         'date': '2017-2020',
         'company': 'CTTC, Barcelona (Spain)',
-        'details': '5G NR/NR-U design and implementation in mmWave bands.<ul><li>Presented various papers and posters in international conferences</li><li>Offline and online interactions for maintaining an open-source simulator</li></ul>'
+        'details': ('5G NR/NR-U design and implementation in mmWave bands.'
+                    '<ul>'
+                    '<li>Presented various papers and posters in international conferences</li>'
+                    '<li>Scheduling when bandwidth-constrained, cross-layers interactions.</li>'
+                    '<li>Offline and online interactions for maintaining an open-source simulator</li>'
+                    '</ul>')
     },
     {
         'job_title': 'Scientific Software Developer',
