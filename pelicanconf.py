@@ -155,8 +155,19 @@ R_EDUCATION = [
 
 R_JOBS = [
     {
+        'job_title': 'Staff Software Engineer / Tech Lead',
+        'date': '2026-now',
+        'company': 'Vonage, Barcelona (Spain)',
+        'details': ('Media Routing Technical Leadership'
+                    '<ul>'
+                    '<li>Drove product-level technical strategy by owning full feature lifecycles end-to-end.</li>'
+                    '<li>Elevated engineering capability through structured knowledge transfers.</li>'
+                    '<li>Mentored engineers across seniority levels, accelerating individual growth.</li>'
+                    '</ul>')
+    },
+    {
         'job_title': 'Senior Software Engineer / Tech Lead',
-        'date': '2022-now',
+        'date': '2022-2026',
         'company': 'Vonage, Barcelona (Spain)',
         'details': ('Media Routing Technical Leadership'
                     '<ul>'

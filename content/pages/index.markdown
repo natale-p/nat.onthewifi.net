@@ -12,7 +12,9 @@ sortorder: 0
 
 **Natale Patriciello, PhD** personal page
 
-Senior Software Engineer, [Vonage](https://www.vonage.com/about-us/), 08-2022 - (currently employed).
+Staff Software Engineer, [Vonage](https://www.vonage.com/about-us/), 04-2026 - (currently employed).
+
+Senior Software Engineer, [Vonage](https://www.vonage.com/about-us/), 08-2022 / 03-2026.
 
 Software Media Engineer, [Vonage](https://www.vonage.com/about-us/), 12-2020 / 07-2022.
 
